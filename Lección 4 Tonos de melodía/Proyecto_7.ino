@@ -6,7 +6,7 @@
 /********************************
  En este proyecto se programa tonos básicos en el UNO para que
 salgan por medio de un buzzer
- ********************************/
+ ********************************/ 
 void setup() {
   pinMode (8,OUTPUT);
 }
