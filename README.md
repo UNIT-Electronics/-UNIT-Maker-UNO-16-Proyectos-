@@ -49,6 +49,6 @@ Contenido
 
 [Lección 7 Sensor ultrasónico](https://github.com/UNIT-Electronics/-UNIT-Maker-UNO-16-Proyectos-/tree/main/Lecci%C3%B3n%207%20Sensor%20ultras%C3%B3nico)
 
-[Proyecto 15](https://github.com/UNIT-Electronics/-UNIT-Maker-UNO-16-Proyectos-/tree/main/Lecci%C3%B3n%201%20Salida%20digital)
+* [Proyecto 15](https://github.com/UNIT-Electronics/-UNIT-Maker-UNO-16-Proyectos-/tree/main/Lecci%C3%B3n%201%20Salida%20digital)
 
-*[Proyecto 16](https://github.com/UNIT-Electronics/-UNIT-Maker-UNO-16-Proyectos-/tree/main/Lecci%C3%B3n%201%20Salida%20digital)
+* [Proyecto 16](https://github.com/UNIT-Electronics/-UNIT-Maker-UNO-16-Proyectos-/tree/main/Lecci%C3%B3n%201%20Salida%20digital)
