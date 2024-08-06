@@ -7,9 +7,10 @@ UNIT Maker UNO es un kit de electrónica y programación básica diseñado para 
 
 Contenido
 
-[Lección 1 Salida digital](https://github.com/UNIT-Electronics/-UNIT-Maker-UNO-16-Proyectos-/tree/main/Lecci%C3%B3n%201%20Salida%20digital)
-[* Proyecto 1](https://github.com/UNIT-Electronics/-UNIT-Maker-UNO-16-Proyectos-/tree/main/Lecci%C3%B3n%201%20Salida%20digital)
-[* Proyecto 2](https://github.com/UNIT-Electronics/-UNIT-Maker-UNO-16-Proyectos-/tree/main/Lecci%C3%B3n%201%20Salida%20digital)
++[Lección 1 Salida digital](https://github.com/UNIT-Electronics/-UNIT-Maker-UNO-16-Proyectos-/tree/main/Lecci%C3%B3n%201%20Salida%20digital)
+
+[Proyecto 1](https://github.com/UNIT-Electronics/-UNIT-Maker-UNO-16-Proyectos-/tree/main/Lecci%C3%B3n%201%20Salida%20digital)
+[Proyecto 2](https://github.com/UNIT-Electronics/-UNIT-Maker-UNO-16-Proyectos-/tree/main/Lecci%C3%B3n%201%20Salida%20digital)
 [Lección 2 Entrada digital](https://github.com/UNIT-Electronics/-UNIT-Maker-UNO-16-Proyectos-/tree/main/Lecci%C3%B3n%202%20Entrada%20digital)
 [Proyecto 3](https://github.com/UNIT-Electronics/-UNIT-Maker-UNO-16-Proyectos-/tree/main/Lecci%C3%B3n%201%20Salida%20digital)
 [Proyecto 4](https://github.com/UNIT-Electronics/-UNIT-Maker-UNO-16-Proyectos-/tree/main/Lecci%C3%B3n%201%20Salida%20digital)
