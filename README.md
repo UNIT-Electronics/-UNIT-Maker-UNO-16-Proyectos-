@@ -1,4 +1,5 @@
 #UNIT Maker UNO – Nivel Básico con 16 Proyectos
+<h1 style="font-size: 3em; color: orange;">UNIT Maker UNO – Nivel Básico con 16 Proyectos</h1>
 ![portada]( https://uelectronics.com/wp-content/uploads/2021/06/AR2671-UNIT-Maker-UNO-V1.jpg )
 
 UNIT Maker UNO es un kit de electrónica y programación básica diseñado para niños, jóvenes y adultos para introducirse a la programación en Arduino IDE de forma inmediata. El kit cuenta con una guía digital en formato PDF que te explicara paso a paso los conceptos básicos de programación y como conectar cada uno de los componentes incluidos. UNIT Maker UNO viene con una base de acrílico para colocar la placa UNO R3 y la protoboard de manera sencilla, de igual manera la base viene grabada con el pinout del UNO R3.
