@@ -6,6 +6,10 @@ UNIT Maker UNO es un kit de electrónica y programación básica diseñado para 
 
 ![piezas](https://uelectronics.com/wp-content/uploads/2021/06/AR2671-UNIT-Maker-UNO-.jpg)
 
+Documentación
+
+[Guia UNIT Maker UNO](https://uelectronics.com/wp-content/uploads/2021/06/Guia-Maker-UNO.pdf)
+
 Contenido
 
 * [Lección 1 Salida digital](https://github.com/UNIT-Electronics/-UNIT-Maker-UNO-16-Proyectos-/tree/main/Lecci%C3%B3n%201%20Salida%20digital)
